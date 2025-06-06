@@ -1,2 +1,2 @@
 # Spotify_Clone
-This is  my code of my clone project of Spotify
+This is the code of my clone project of Spotify.
